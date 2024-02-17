@@ -20,7 +20,7 @@ export default {
 <template>
   <v-app-bar density="comfortable" color="white" order="-1" elevation="0">
     <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
-    <v-toolbar-title>Konmai Academy</v-toolbar-title>
+    <v-toolbar-title>Puremoon音游下载站</v-toolbar-title>
   </v-app-bar>
   <v-navigation-drawer v-model="drawer" elevation="0" :permanent="permanent">
     <v-list lines="false">
