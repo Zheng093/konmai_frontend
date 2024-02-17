@@ -30,4 +30,27 @@
             }
         }
     }
+    },
+    "pinned": ["Sample: Game2"],
+    "packages": {
+        "Sample: Game2": {
+            "Sample Platform2": {
+                "configs": {
+                    "comments": "This is where you put comment in222"
+                },
+                "suffix": "apk",
+                "packageName": "com.example.game22",
+                "version": 12322,
+                "versionString": "1.1.122",
+                "obb": {
+                    "main": "com.example.game/main.123.com.example.game.ob22b"
+                },
+                "allocatedServer": [
+                    "Sample Server"
+                ],
+                "source": "",
+                "url": ""
+            }
+        }
+    }
 }
