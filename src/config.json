@@ -8,7 +8,7 @@
             "webRoot": "/var/www/example.com/"
         }
     },
-     ["Sample: Game", "Sample: Game2"],
+    "pinned": ["Sample: Game", "Sample: Game2"],
     "packages": {
         "Sample: Game": {
             "Sample Platform": {
