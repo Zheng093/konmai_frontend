@@ -1,5 +1,5 @@
 {
-    "comment": "This is the sameple configuration file. It should be the same one as the backend config.",
+    "comment": "This is the sample configuration file. It should be the same one as the backend config.",
     "servers": {
         "Sample Server": {
             "sshPort": "22",
@@ -8,7 +8,7 @@
             "webRoot": "/var/www/example.com/"
         }
     },
-    "pinned": ["Sample: Game"],
+    "pinned": ["Sample: Game", "Sample: Game2"],
     "packages": {
         "Sample: Game": {
             "Sample Platform": {
@@ -28,11 +28,7 @@
                 "source": "",
                 "url": ""
             }
-        }
-    }
-    },
-    "pinned": ["Sample: Game2"],
-    "packages": {
+        },
         "Sample: Game2": {
             "Sample Platform2": {
                 "configs": {
